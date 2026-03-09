@@ -2,7 +2,7 @@
 
 Edge is a domain specific language for the Ethereum Virtual Machine (EVM).
 
-It is the brain child of [jtriley](https://github.com/jtriley-eth), to whom
+It is the brain child of [jtriley](https://github.com/jtriley2p), to whom
 all specifications are attributable.
 
 The [Edge Book] is broken down into the following sections:
